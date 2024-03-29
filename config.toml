@@ -8,5 +8,5 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 [Twitter]
 build-mode = "apk"
 version = "latest"
-archive-dlurl = "https://archive.org/download/rzy-apks_202401/Apk/com.twitter.android/"
+archive-dlurl = "https://archive.org/download/rzy-apk/Apk/com.twitter.android/"
 arch = "all"
